@@ -8,3 +8,10 @@
 **[[🎵Demo Page]](https://melodia-edit.github.io/)** | **[[📄Paper]](https://arxiv.org/abs/2511.08252)**
 
 ---
+## Overview
+
+<p align="center">
+  <img src="assets/framework.png" width="100%">
+</p>
+
+**Overview of Melodia.** Our method consists of two main stages: (1) Partial DDIM Inversion with Attention Repository that stores self-attention features for structure preservation, and (2) Reverse Process with Attention-based Structure Retention (ASR) that manipulates self-attention maps during denoising to achieve music editing while maintaining the original temporal structure.
